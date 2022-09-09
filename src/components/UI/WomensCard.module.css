@@ -1,0 +1,111 @@
+.card {
+  background-color: #e0e1e1;
+  width: 50rem;
+  height: 15rem;
+  margin-top: 30px;
+  border-radius: 5px;
+  margin-left: 200px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.14);
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 7px;
+  margin-bottom: 30px;
+}
+
+.rayban img{
+    height: 14rem;
+    width: 50%;
+    margin-left: 3rem;
+    padding-top: 1px;
+}
+
+.gucci img{
+    height: 14rem;
+    margin-left: 3rem;
+    width: 50%;
+    padding-top: 1px;
+}
+
+.louis img{
+    height: 14rem;
+    width: 50%;
+    margin-left: 3rem;
+    padding-top: 1px;
+}
+
+.prada img{
+    height: 14rem;
+    margin-left: 3rem;
+    width: 50%;
+    padding-top: 1px;
+}
+
+.burberry img{
+    height: 14rem;
+    margin-left: 3rem;
+    width: 50%;
+    padding-top: 1px;
+}
+
+.oakley img{
+    height: 14rem;
+    margin-left: 3rem;
+    width: 50%;
+    padding-top: 1px;
+}
+
+.h2{
+    margin-left: 30.7rem;
+   margin-top: -13.5rem;
+   font-size: 20.5px;
+}
+
+.h5{
+    margin-left: 30.7rem;
+}
+
+.h6{
+    margin-left: 37.1rem;
+    font-size: 13.2px;
+    margin-top: -0.25rem;
+    font-weight: bold;
+}
+
+.cartBtn{
+    margin-left: 21rem;
+    width: 5.9rem;
+    height: 1.5rem;
+    background-color: #e0e1e1;
+    font-weight: bold;
+    border-radius: 3px;
+    border: transparent;
+    margin-top: -14px;
+}
+
+
+
+.cartBtn:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    background-color: white;
+    transition: 0.3s;
+}
+
+.wishBtn{
+    margin-left: 15rem;
+    width: 8rem;
+    height: 1.5rem;
+    background-color: #e0e1e1;
+    font-weight: bold;
+    border-radius: 3px;
+    border: transparent;
+    margin-top: -23px;
+}
+
+.wishBtn:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    background-color: white;
+    transition: 0.3s;
+}

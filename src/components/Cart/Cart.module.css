@@ -1,0 +1,56 @@
+.cartBox{
+    background-color: #d1d0c7;
+    height: 35rem;
+    width: 39rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 65px;
+    margin-bottom: 9.3rem;
+     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.14);
+}
+
+.h1{
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 30px;
+}
+
+.total{
+    margin-left: 15rem;
+    margin-top: 25rem;
+}
+
+.h4 {
+    margin-left: 50px;
+}
+
+.total{
+    font-size: 20px;
+    margin-left: 31rem;
+}
+
+.amount{
+    margin-left: 1rem;
+    display: flex;
+    margin-left: 30rem;
+}
+
+.clearbtn{
+    margin-left: 30rem;
+    margin-top: 5px;
+     width: 5.9rem;
+    height: 1.5rem;
+    background-color: #d1d0c7;
+    font-weight: bold;
+    border-radius: 3px;
+    border: transparent;
+}
+
+.clearbtn:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    background-color: white;
+    transition: 0.3s;
+}

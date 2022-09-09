@@ -1,0 +1,54 @@
+.header{
+    width: 100%;
+    height: 3rem;
+    background-color: lightgray;
+    margin-top: 3px;
+    display: flex;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    align-items: center;
+    justify-content: center;
+}
+
+.text{
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.link{
+    font-size: 17px;
+    font-weight: bolder;
+    margin-left: 4.5rem;
+}
+
+.nav {
+  height: 100%;
+}
+
+.header ul {
+  height: 100%;
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 4rem;
+  align-items: center;
+}
+
+.header li {
+  margin: 0 1rem;
+  font-size: .98rem;
+  padding: 1rem
+}
+
+.header a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.header a:hover,
+.header a:active,
+.header a:active {
+  color: white;
+  padding-bottom: 0.25rem;
+  border-bottom: 4px solid white;
+}
